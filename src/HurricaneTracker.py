@@ -1,12 +1,13 @@
-# %% 
-# Hurricane Mapping Tool
-# This selects a specific US hurricane from points data, creates a hurricane track, and selects the affected counties. 
-# The code also creates an interactive html map and graph of the hurricane track and impacted counties. 
-# 
-# Change the selected hurricane using the storm_season and storm_name variables 
-# 
-# Created by Sarah Hall, 10/6/2026
-# ENV 859, Duke University 
+'''
+Hurricane Mapping Tool
+This selects a specific US hurricane from points data, creates a hurricane track, and selects the affected counties. 
+The code also creates an interactive html map and graph of the hurricane track and impacted counties. 
+
+Change the selected hurricane using the storm_season and storm_name variables 
+
+Created by Sarah Hall, 10/6/2026
+ENV 859, Duke University 
+'''
 
 # %% Project Set-Up
 #import packages
